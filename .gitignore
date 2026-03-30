@@ -1,0 +1,14 @@
+# 敏感信息
+secrets.py
+*.pem
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+*.tmp
+*.log
