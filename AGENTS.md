@@ -57,10 +57,10 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - 关闭/重启 Chrome → 先报告
 - 删除文件 → 先确认
 
-### 每日日志（必须遵守）
-- 每天必须记录 memory/YYYY-MM-DD.md
-- 当日事当日记，不得遗漏
-- 重要决策、踩坑、配置变更、规则更新必须及时写入
+### 日志与心跳（必须遵守）
+- **新的一天**小杨开始聊天时，立即创建 `memory/YYYY-MM-DD.md` 并开始记录
+- 重要内容自动写入相关文件，不等待提醒
+- **每30分钟**心跳检测一次，检查是否有未执行的任务
 
 ## External vs Internal
 
